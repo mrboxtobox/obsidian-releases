@@ -6300,6 +6300,13 @@
         "repo": "samprintz/obsidian-issue-augmentation-plugin"
     },
     {
+        "id": "obsidian-related-notes",
+        "name": "Related Notes",
+        "author": "mrboxtobox",
+        "description": "Discover related notes.",
+        "repo": "mrboxtobox/obsidian-related-notes"
+    },
+    {
         "id": "persistent-links",
         "name": "Persistent Links",
         "author": "Ivan Lednev",
